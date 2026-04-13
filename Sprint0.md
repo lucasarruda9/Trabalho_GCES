@@ -1,16 +1,16 @@
-# Sprint 0 – Onboarding e Contribuição no Kdenlive
+# Sprint 0 – Onboarding Kdenlive
 
-A Sprint 0 é a etapa de onboarding do projeto. Para participar, é necessário primeiro criar uma conta no **KDE Identity**, o que permite acessar o repositório do **:contentReference[oaicite:0]{index=0}** no GitLab.
+A Sprint 0 é a etapa de onboarding do projeto. Para participar, é necessário primeiro criar uma conta no KDE Identity, o que permite acessar o repositório do Kdenlive no GitLab.
 
-Após isso, cada aluno deve criar um **fork** do repositório oficial, permitindo realizar alterações de forma independente antes de submeter contribuições ao projeto principal.
+Após isso, cada aluno deve criar um fork do repositório oficial, permitindo realizar alterações de forma independente antes de submeter contribuições ao projeto principal.
 
 ---
 
 # Sobre o Kdenlive
 
-O **Kdenlive** é um editor de vídeo gratuito e open source, voltado tanto para usuários iniciantes quanto para edições mais avançadas e profissionais. Ele permite a criação e edição de vídeos por meio de uma linha do tempo, onde clipes de vídeo, áudio, imagens e efeitos são organizados para compor o projeto final.
+O Kdenlive é um editor de vídeo gratuito e open source, voltado tanto para usuários iniciantes quanto para edições mais avançadas e profissionais. Ele permite a criação e edição de vídeos por meio de uma linha do tempo, onde clipes de vídeo, áudio, imagens e efeitos são organizados para compor o projeto final.
 
-O projeto é desenvolvido principalmente em **C++** e utiliza o **MLT Framework** como motor central de processamento multimídia. O MLT é responsável por tarefas como decodificação de áudio e vídeo, aplicação de efeitos, transições e renderização final do projeto.
+O projeto é desenvolvido principalmente em C++ e utiliza o MLT Framework como motor central de processamento multimídia. O MLT é responsável por tarefas como decodificação de áudio e vídeo, aplicação de efeitos, transições e renderização final do projeto.
 
 Além disso, o Kdenlive utiliza diversas bibliotecas externas para expandir suas funcionalidades, como:
 
